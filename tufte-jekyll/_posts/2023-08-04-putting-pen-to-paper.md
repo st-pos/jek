@@ -4,7 +4,7 @@ title:  "Putting pen to paper"
 date:   2023-08-04 15:00:01
 categories: post
 ---
-Lost in the rhythm of typing, I've always found a joy in writing. *Tap*, *tap*, *tap*,  but always for an audience of one - **me**. Now, though still hesitant to fully embrase my "authentic-self", I am taking small steps toward inviting you into my world.
+Lost in the rhythm of typing, I've always found a joy in writing. *Tappy*, *tap*, *tap*. But always for an audience of one... **me**. Now, though still hesitant to fully embrase my "authentic-self", I am taking small steps toward inviting you into my world.
 
 **BEHIND THE STORY:** This is an exploration of finding my voice amidst hesitation, a journey that inspires others to pursue authenticity in their own expressions.
 <!--more-->
