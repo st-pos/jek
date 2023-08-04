@@ -1,3 +1,5 @@
+permalink: /text/
+
 ---
 layout: post
 title:  "Finally published"
