@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>o_0</title>
-    <description>A Jekyll theme for content-rich sites</description>
+    <description>A place to write some ramblings</description>
     <link>https://o-0.ooo/</link>
     <atom:link href="https://o-0.ooo/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Aug 2023 10:10:42 -0400</pubDate>
-    <lastBuildDate>Fri, 04 Aug 2023 10:10:42 -0400</lastBuildDate>
+    <pubDate>Fri, 04 Aug 2023 10:12:19 -0400</pubDate>
+    <lastBuildDate>Fri, 04 Aug 2023 10:12:19 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
