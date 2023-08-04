@@ -5,8 +5,8 @@
     <description>A Jekyll theme for content-rich sites</description>
     <link>https://walrus-app-pu357.ondigitalocean.app/</link>
     <atom:link href="https://walrus-app-pu357.ondigitalocean.app/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Aug 2023 07:21:38 -0400</pubDate>
-    <lastBuildDate>Fri, 04 Aug 2023 07:21:38 -0400</lastBuildDate>
+    <pubDate>Fri, 04 Aug 2023 07:39:45 -0400</pubDate>
+    <lastBuildDate>Fri, 04 Aug 2023 07:39:45 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -172,8 +172,8 @@ using the standard Kramdown parser. Some examples sent to me by Quxiaofeng are n
 &lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;https://walrus-app-pu357.ondigitalocean.app/assets/img/rhino.png&quot; /&gt;&lt;figcaption&gt;Tufte&amp;#8217;s pet rhino (via &lt;a href=&quot;//www.edwardtufte.com/tufte/&quot;&gt;Edward Tufte&lt;/a&gt;)&lt;/figcaption&gt;&lt;/figure&gt;
 </description>
         <pubDate>Thu, 03 Aug 2023 00:00:00 -0400</pubDate>
-        <link>https://walrus-app-pu357.ondigitalocean.app/articles/23/finally-published</link>
-        <guid isPermaLink="true">https://walrus-app-pu357.ondigitalocean.app/articles/23/finally-published</guid>
+        <link>https://walrus-app-pu357.ondigitalocean.app/articles/23/finally-published/</link>
+        <guid isPermaLink="true">https://walrus-app-pu357.ondigitalocean.app/articles/23/finally-published/</guid>
         
         
       </item>
@@ -630,8 +630,8 @@ etc...
 
 </description>
         <pubDate>Mon, 13 Apr 2020 05:46:04 -0400</pubDate>
-        <link>https://walrus-app-pu357.ondigitalocean.app/articles/20/tufte-style-jekyll-blog</link>
-        <guid isPermaLink="true">https://walrus-app-pu357.ondigitalocean.app/articles/20/tufte-style-jekyll-blog</guid>
+        <link>https://walrus-app-pu357.ondigitalocean.app/articles/20/tufte-style-jekyll-blog/</link>
+        <guid isPermaLink="true">https://walrus-app-pu357.ondigitalocean.app/articles/20/tufte-style-jekyll-blog/</guid>
         
         
         <category>jekyll</category>
