@@ -8,9 +8,6 @@ layout: default
 {% assign excerpt_only = content_array | first %}
 {% assign content_remainder = content_array | last %}
 
-{% capture time %}{{ content_remainder | reading_time }}{% endcapture %}
-<p>This article will take {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} to read.</p>
-
 <div class="post-content">
   {{ content_remainder | remove_first: '</p>'}}
 </div>
