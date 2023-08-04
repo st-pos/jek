@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Edge Cases"
-date:   2020-04-13 17:04:01
+title:  "Finally published"
+date:   2023-08-03 12:00:01
 categories: post
 ---
-Some edge cases and cautionary examples on using Markdown for writing content using this theme. In particular, list syntax can really knot things up.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a eros porta, gravida enim et, egestas dolor. Pellentesque commodo consequat quam sit amet fermentum. Mauris lacus est, imperdiet imperdiet vulputate vitae, vehicula a sapien. Quisque vestibulum interdum nunc, ut eleifend quam euismod ut.
 <!--more-->
 
 ### Mathjax improperly parsing greater and less than and ampersands inside blocks
