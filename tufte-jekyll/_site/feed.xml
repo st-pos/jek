@@ -5,13 +5,15 @@
     <description>A Jekyll theme for content-rich sites</description>
     <link>https://walrus-app-pu357.ondigitalocean.app/</link>
     <atom:link href="https://walrus-app-pu357.ondigitalocean.app/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Aug 2023 08:32:55 -0400</pubDate>
-    <lastBuildDate>Fri, 04 Aug 2023 08:32:55 -0400</lastBuildDate>
+    <pubDate>Fri, 04 Aug 2023 09:10:36 -0400</pubDate>
+    <lastBuildDate>Fri, 04 Aug 2023 09:10:36 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>Finally published</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a eros porta, gravida enim et, egestas dolor. Pellentesque commodo consequat quam sit amet fermentum. Mauris lacus est, imperdiet imperdiet vulputate vitae, vehicula a sapien. Quisque vestibulum interdum nunc, ut eleifend quam euismod ut.
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a eros porta, gravida enim et, egestas dolor. Pellentesque commodo consequat quam sit amet fermentum. Mauris lacus est, imperdiet imperdiet vulputate vitae, vehicula a sapien. Quisque vestibulum interdum nunc, ut eleifend quam euismod ut.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHY IT MATTERS:&lt;/strong&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;mathjax-improperly-parsing-greater-and-less-than-and-ampersands-inside-blocks&quot;&gt;Mathjax improperly parsing greater and less than and ampersands inside blocks&lt;/h3&gt;

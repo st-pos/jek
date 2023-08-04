@@ -5,6 +5,8 @@ date:   2023-08-03 12:00:01
 categories: post
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a eros porta, gravida enim et, egestas dolor. Pellentesque commodo consequat quam sit amet fermentum. Mauris lacus est, imperdiet imperdiet vulputate vitae, vehicula a sapien. Quisque vestibulum interdum nunc, ut eleifend quam euismod ut.
+
+**WHY IT MATTERS:** Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 <!--more-->
 
 ### Mathjax improperly parsing greater and less than and ampersands inside blocks
