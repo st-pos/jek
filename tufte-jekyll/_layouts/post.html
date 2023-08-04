@@ -3,6 +3,8 @@ layout: default
 ---
 <h1>{{ page.title}}</h1>
 <p class="subtitle">{{ page.date | date: "%B %-d, %Y" }}</p>
+{% capture time %}{{ content | reading_time }}{% endcapture %}
+<p>This article will take {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} to read.</p>
 
 {% assign content_array = page.content | split: site.excerpt_separator %}
 {% assign excerpt_only = content_array | first %}
