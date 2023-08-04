@@ -296,7 +296,7 @@ html {
 }
 
 a {
-  color: #a00000;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -580,7 +580,7 @@ blockquote .sidenote, blockquote .marginnote {
 .sidenote-number:after, .sidenote:before {
   content: counter(sidenote-counter) " ";
   font-family: et-bembo-roman-old-style;
-  color: #a00000;
+  color: #000000;
   position: relative;
   vertical-align: baseline;
 }
@@ -594,7 +594,7 @@ blockquote .sidenote, blockquote .marginnote {
 
 .sidenote:before {
   content: counter(sidenote-counter) ". ";
-  color: #a00000;
+  color: #000000;
   top: 0rem;
 }
 
@@ -668,7 +668,7 @@ label.margin-toggle:not(.sidenote-number) {
 @media (max-width: 760px) {
   label.margin-toggle:not(.sidenote-number) {
     display: inline;
-    color: #a00000;
+    color: #000000;
   }
   .sidenote, .marginnote {
     display: none;
@@ -723,7 +723,7 @@ label.margin-toggle:not(.sidenote-number) {
 /*--- End of Basic Layout stuff from tufte.css ---*/
 /* -- Jekyll specific styling --*/
 .contrast {
-  color: #a00000;
+  color: #000000;
 }
 
 .smaller {
@@ -748,7 +748,7 @@ header > nav a {
   font-family: "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Lato", Calibri, sans-serif;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  color: #a00000;
+  color: #000000;
   padding-top: 1.5rem;
   text-decoration: none;
   display: inline-block;
@@ -785,7 +785,7 @@ ul.footer-links li {
   font-family: "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Lato", Calibri, sans-serif;
 }
 .credits a {
-  color: #a00000;
+  color: #000000;
 }
 
 body.full-width, .content-listing, ul.content-listing li.listing {
