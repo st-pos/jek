@@ -8,10 +8,6 @@ layout: default
 {% assign excerpt_only = content_array | first %}
 {% assign content_remainder = content_array | last %}
 
-<div class="post-excerpt">
-  {{ excerpt_only | append: '</p>'}}
-</div>
-
 <div class="post-content">
   {{ content_remainder | remove_first: '</p>'}}
 </div>
