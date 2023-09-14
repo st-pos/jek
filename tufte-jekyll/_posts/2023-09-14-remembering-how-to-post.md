@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Remembering how to post"
-date:   2023-09-14 21:41:01
+date:   2023-09-14 15:41:01
 categories: post
 ---
 Time really does escape you. A harsh mistress, with no free passes given. I've been so busy with work and life that I almost forgot how to post to here. I've been writing, but not publishing. I've been thinking, but not sharing. I've been living, but not reflecting. 
 
-**TRUTH BE TOLD:** I've been learning a lot about myself, after reflecting on some of the books that I've recently read - including Walter Isaacson's new biography of Elon Musk, Oliver Burkeman's 'Four Thousand Weeks', and 'Anatomy of a Breakthrough' by Adam Alter. 
+**TRUTH BE TOLD:** I've been learning a lot about myself, after reflecting on some of the books that I've recently rea - including Walter Isaacson's new biography of Elon Musk, Oliver Burkeman's 'Four Thousand Weeks', and 'Anatomy of a Breakthrough' by Adam Alter. 
 
 <!--more-->
 
